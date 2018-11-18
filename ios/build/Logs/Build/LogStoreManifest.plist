@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>D7373247-C1AA-497B-BEB5-03C56E2CAD4A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D7373247-C1AA-497B-BEB5-03C56E2CAD4A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>albums project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>albums</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project albums with scheme albums and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564035073.42436194</real>
+			<key>timeStoppedRecording</key>
+			<real>564035096.52624404</real>
+			<key>title</key>
+			<string>Building project albums with scheme albums and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D7373247-C1AA-497B-BEB5-03C56E2CAD4A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
