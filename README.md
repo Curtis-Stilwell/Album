@@ -1,1 +1,1 @@
-# Album
+# Albums
